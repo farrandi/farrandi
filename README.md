@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/farrandihernando/" rel="nofollow noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedin" width=20 height=auto>
 </a>
-<a href="farrandi19@gmail.com" rel="nofollow noreferrer">
+<a href="mailto:farrandi19@gmail.com" rel="nofollow noreferrer">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/800px-Circle-icons-mail.svg.png" alt="mail" width=20 height=auto>
 </a>
 

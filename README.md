@@ -9,11 +9,13 @@
 </a>
 
 ---
-🔭 I am a fourth year Engineering Physics student at the University of British Columbia. I am focused in the computer engineering aspects of the program.
+🔭 I am a fifth year Engineering Physics student (computer engineering focused) at the University of British Columbia.
 
 💻 In my time as a student, I have had several software engineering roles and have done multiple software-related projects. During this time, I have learned that sometimes it is best to just dive into a problem rather than worrying and doubting. Also, making your code readable to other people is helpful for the team and your future self.
 
-🌱 I’m currently developing several full stack projects: amazon clone (you can check it out in this github), and an Android application
+🌱 I’m currently developing several full stack projects: An Android application and digital business cards
+
+🏀 I enjoy playing basketball, volleyball, badminton, and watching F1
 
 <!--
 **farrandi/farrandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

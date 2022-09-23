@@ -15,7 +15,11 @@
 
 🌱 I’m currently developing several full stack projects: An Android application and digital business cards
 
+✨ I also contributed to several open source projects like: spaCy, Sci-spaCy, and MlFlow
+
 🏀 I enjoy playing basketball, volleyball, badminton, and watching F1
+
+
 
 <!--
 **farrandi/farrandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,7 +17,7 @@
 
 ✨ I also contributed to several open source projects like: spaCy, Sci-spaCy, and MlFlow
 
-🏀 I enjoy playing basketball, volleyball, badminton, and watching F1
+🏀 I enjoy playing basketball, soccer, badminton, and watching F1
 
 
 

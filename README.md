@@ -7,6 +7,9 @@
 <a href="mailto:farrandi19@gmail.com" rel="nofollow noreferrer">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/800px-Circle-icons-mail.svg.png" alt="mail" width=20 height=auto>
 </a>
+<a href="https://www.farrandi.com/" rel="nofollow noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Favicon.ico.png" alt="my_website" width=20 height=auto>
+</a>
 
 ---
 🔭 I am a Master of Data Science student at the University of British Columbia.

@@ -1,7 +1,7 @@
 ### Hi there! Welcome to my Github page!👋
 #### I am Farrandi Hernando (He/Him), you can call me Nando
 
-<a href="https://www.linkedin.com/in/farrandihernando/" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/farrandi/" rel="nofollow noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedin" width=20 height=auto>
 </a>
 <a href="mailto:farrandi19@gmail.com" rel="nofollow noreferrer">

@@ -18,8 +18,6 @@
 
 💻 In my time as a student, I have had several software engineering roles and have done multiple software-related projects. During this time, I have learned that sometimes it is best to just dive into a problem rather than worrying and doubting. Also, making your code readable to other people is helpful for the team and your future self.
 
-✨ I also contributed to several open source projects like: spaCy, Sci-spaCy, and MlFlow
-
 🏀 I enjoy playing badminton and watching F1
 
 
